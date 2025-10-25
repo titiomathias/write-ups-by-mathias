@@ -18,7 +18,7 @@
 
 This writeup documents the static analysis and reasoning used to recover the expected password for the challenge. The analysis was performed targeting a 64-bit ELF binary and used standard reverse-engineering tools (disassembly / decompilation).
 
-![Figure 1](imgs/file.png)
+![Figure 1](imgs/file_command.png)
 
 ## Quick summary
 
